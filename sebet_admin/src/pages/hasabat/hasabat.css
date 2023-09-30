@@ -1,0 +1,27 @@
+
+.hasbat-page{
+    padding: 20px;
+    display: inline-flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.hasabat-ay{
+    width: 400px;
+    height: max-content;
+    padding: 20px;
+    border: 1px solid black;
+    box-shadow: 0 0 5px grey;
+    border-radius: 12px;
+    margin: 20px;
+}
+
+.hasabat-ay >button{
+    width: 45%;
+    margin-left: 90px;
+}
+.hasabat-ay > h1{
+    font-size: 24px;
+    font-weight: 450;
+    text-align: center;
+}
